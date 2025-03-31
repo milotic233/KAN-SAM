@@ -14,3 +14,17 @@ RGB-thermal salient object detection (RGB-T SOD) methods aim to identify visuall
 
 ## VT5000 results
 [VT5000](https://github.com/milotic233/KAN-SAM/blob/main/VT5000.zip)
+
+## Citation
+Please cite this paper in your publications if it helps your research:
+
+```
+@inproceedings{li2025kansam,
+  title={KAN-SAM: Kolmogorov-Arnold Network Guided Segment Anything Model for RGB-T Salient Object Detection},
+  author={Li, Xingyuan and Hou, Ruichao and Ren, Tongwei and Wu, Gangshan},
+  booktitle={2025 IEEE International Conference on Multimedia and Expo (ICME)},
+  pages={1--6},
+  year={2025},
+  organization={IEEE}
+}
+```
